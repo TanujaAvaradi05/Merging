@@ -1,0 +1,2 @@
+f="fruit"
+print(f)
